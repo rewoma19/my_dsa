@@ -19,3 +19,19 @@ Notes:
 Solution:
 
 - [contains_duplicate.js](arrays_and_hashing/contains_duplicate/contains_duplicate.js)
+
+## Day 2: Arrays and Hashing
+
+### [Leetcode 242: Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)
+
+Instructions:
+
+- [valid_anagram.md](arrays_and_hashing/valid_anagram/valid_anagram.md)
+
+Notes:
+
+- [NOTES.md](arrays_and_hashing/valid_anagram/NOTES.md)
+
+Solution:
+
+- [valid_anagram.js](arrays_and_hashing/valid_anagram/valid_anagram.js)
