@@ -8,10 +8,10 @@ var containsDuplicate = function (nums) {
   const h = new Set();
 
   for (const num of nums) {
-    if (h.has(num)) {
-      return true;
-    } else {
+    if (!h.has(num)) {
       h.add(num);
+    } else {
+      return true;
     }
   }
 
