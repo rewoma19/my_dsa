@@ -50,4 +50,4 @@ Notes:
 
 Solution:
 
-- [two_sum.js](arrays_and_hashing/valid_anagram/valid_anagram.js)
+- [two_sum.js](arrays_and_hashing/two_sum/two_sum.js)
