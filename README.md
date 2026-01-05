@@ -35,3 +35,19 @@ Notes:
 Solution:
 
 - [valid_anagram.js](arrays_and_hashing/valid_anagram/valid_anagram.js)
+
+## Day 3: Arrays and Hashing
+
+### [Leetcode 1: Two Sum](https://leetcode.com/problems/two-sum/description/)
+
+Instructions:
+
+- [two_sum.md](arrays_and_hashing/two_sum/two_sum.md)
+
+Notes:
+
+- [NOTES.md](arrays_and_hashing/two_sum/NOTES.md)
+
+Solution:
+
+- [two_sum.js](arrays_and_hashing/valid_anagram/valid_anagram.js)
