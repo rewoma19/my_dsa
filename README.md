@@ -51,3 +51,19 @@ Notes:
 Solution:
 
 - [two_sum.js](arrays_and_hashing/two_sum/two_sum.js)
+
+## Day 4: Valid Palindrome
+
+### [Leetcode 125: Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+
+Instructions:
+
+- [valid_palindrome.md](two_pointers/valid_palindrome.md)
+
+Notes:
+
+- [NOTES.md](two_pointers/NOTES.md)
+
+Solution:
+
+- [valid_palindrome.js](two_pointers/valid_palindrome.js)
