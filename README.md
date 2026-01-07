@@ -67,3 +67,19 @@ Notes:
 Solution:
 
 - [valid_palindrome.js](two_pointers/valid_palindrome.js)
+
+## Day 5: Stack
+
+### [Leetcode 20: Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+
+Instructions:
+
+- [valid_parens.md](stack/valid_parens/valid_parens.md)
+
+Notes:
+
+- [NOTES.md](stack/valid_parens/NOTES.md)
+
+Solution:
+
+- [valid_parens.js](stack/valid_parens/valid_parens.js)
