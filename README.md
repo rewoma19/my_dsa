@@ -83,3 +83,17 @@ Notes:
 Solution:
 
 - [valid_parens.js](stack/valid_parens/valid_parens.js)
+
+### [Leetcode 49: Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
+
+Instructions:
+
+- [group_anagrams.md](arrays_and_hashing/group_anagrams/group_anagrams.md)
+
+Notes:
+
+- [NOTES.md](arrays_and_hashing/group_anagrams/NOTES.md)
+
+Solution:
+
+[group_anagrams.js](arrays_and_hashing/group_anagrams/group_anagrams.js)
