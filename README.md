@@ -84,6 +84,8 @@ Solution:
 
 - [valid_parens.js](stack/valid_parens/valid_parens.js)
 
+## Day 6: Arrays and Hashing
+
 ### [Leetcode 49: Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 
 Instructions:
@@ -97,3 +99,19 @@ Notes:
 Solution:
 
 [group_anagrams.js](arrays_and_hashing/group_anagrams/group_anagrams.js)
+
+## Day 7: Linked Lists
+
+### [Leetcode 206: Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
+
+Instructions:
+
+- [reverse_linked.md](linked_lists/reverse_linked_list/reverse_linked.md)
+
+Notes:
+
+- [NOTES.md](linked_lists/reverse_linked_list/NOTES.md)
+
+Solution:
+
+[reverse_linked.js](linked_lists/reverse_linked_list/reverse_linked.js)
