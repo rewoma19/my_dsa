@@ -115,3 +115,19 @@ Notes:
 Solution:
 
 [reverse_linked.js](linked_lists/reverse_linked_list/reverse_linked.js)
+
+## Day 7: Linked Lists
+
+### [Leetcode 21: Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+
+Instructions:
+
+- [merge_two_sorted.md](linked_lists/merge_two_sorted/merge_two_sorted.md)
+
+Notes:
+
+- [NOTES.md](linked_lists/merge_two_sorted/NOTES.md)
+
+Solution:
+
+[reverse_linked.js](linked_lists/merge_two_sorted/merge_two_sorted.js)
