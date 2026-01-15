@@ -116,7 +116,7 @@ Solution:
 
 [reverse_linked.js](linked_lists/reverse_linked_list/reverse_linked.js)
 
-## Day 7: Linked Lists
+## Day 8: Linked Lists
 
 ### [Leetcode 21: Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)
 
