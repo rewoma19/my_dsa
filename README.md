@@ -131,3 +131,19 @@ Notes:
 Solution:
 
 [reverse_linked.js](linked_lists/merge_two_sorted/merge_two_sorted.js)
+
+## Day 9: Linked Lists
+
+### [Leetcode 141: Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)
+
+Instructions:
+
+- [linked_list_cycle.md](linked_lists/linked_list_cycle/linked_list_cycle.md)
+
+Notes:
+
+- [NOTES.md](linked_lists/linked_list_cycle/NOTES.md)
+
+Solution:
+
+[linked_list_cycle.js](linked_lists/linked_list_cycle/linked_list_cyle.js)
