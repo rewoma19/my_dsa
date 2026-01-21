@@ -147,3 +147,19 @@ Notes:
 Solution:
 
 [linked_list_cycle.js](linked_lists/linked_list_cycle/linked_list_cyle.js)
+
+## Day 10: Binary Search Algorithm
+
+### [Leetcode 704: Binary Search](https://leetcode.com/problems/binary-search/description/)
+
+Instructions:
+
+- [binary_search.md](binary_search_algo/binary_search/binary_search.md)
+
+Notes:
+
+- [NOTES.md](binary_search_algo/binary_search/NOTES.md)
+
+Solution:
+
+[binary_search.js](binary_search_algo/binary_search/binary_search.js)
