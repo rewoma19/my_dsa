@@ -179,3 +179,19 @@ Notes:
 Solution:
 
 [best_stock_time.js](sliding_window/best_stock_time/best_stock_time.js)
+
+## Day 12: Arrays and Hashing
+
+### [Leetcode 238: Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)
+
+Instructions:
+
+- [arr_product_self.md](arrays_and_hashing/arr_product_self/arr_product_self.md)
+
+Notes:
+
+- [NOTES.md](arrays_and_hashing/arr_product_self/NOTES.md)
+
+Solution:
+
+[arr_product_self.js](arrays_and_hashing/arr_product_self/arr_product_self.js)
