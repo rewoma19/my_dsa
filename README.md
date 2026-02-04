@@ -195,3 +195,19 @@ Notes:
 Solution:
 
 [arr_product_self.js](arrays_and_hashing/arr_product_self/arr_product_self.js)
+
+## Day 13: Two Pointers
+
+### [Leetcode 167: Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+
+Instructions:
+
+- [two_sum_2.md](two_pointers/two_sum_2/two_sum_2.md)
+
+Notes:
+
+- [NOTES.md](two_pointers/two_sum_2/NOTES.md)
+
+Solution:
+
+- [two_sum_2.js](two_pointers/two_sum_2/two_sum_2.js)
