@@ -211,3 +211,19 @@ Notes:
 Solution:
 
 - [two_sum_2.js](two_pointers/two_sum_2/two_sum_2.js)
+
+## Day 14: Trees
+
+### [Leetcode 226: Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)
+
+Instructions:
+
+- [invert_bin_tree.md](trees/invert_bin_tree/invert_bin_tree.md)
+
+Notes:
+
+- [NOTES.md](trees/invert_bin_tree/NOTES.md)
+
+Solution:
+
+- [invert_bin_tree.js](trees/invert_bin_tree/invert_bin_tree.js)
