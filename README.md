@@ -227,3 +227,19 @@ Notes:
 Solution:
 
 - [invert_bin_tree.js](trees/invert_bin_tree/invert_bin_tree.js)
+
+## Day 15: Arrays and Hashing
+
+### [Leetcode 128: Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+
+Instructions:
+
+- [longest_consec.md](arrays_and_hashing/longest_consec_sequence/longest_consec.md)
+
+Notes:
+
+- [NOTES.md](arrays_and_hashing/longest_consec_sequence/NOTES.md)
+
+Solution:
+
+- [longest_consec.js](arrays_and_hashing/longest_consec_sequence/longest_consec.js)
