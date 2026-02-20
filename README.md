@@ -227,3 +227,19 @@ Notes:
 Solution:
 
 - [invert_bin_tree.js](trees/invert_bin_tree/invert_bin_tree.js)
+
+## Day 15: Bit Manipulation
+
+### [Leetcode 268: Missing Number](https://leetcode.com/problems/missing-number/description/)
+
+Instructions:
+
+- [missing_number.md](bit_manipulation/missing_number/missing_number.md)
+
+Notes:
+
+- [NOTES.md](bit_manipulation/missing_number/NOTES.md)
+
+Solution:
+
+- [missing_number.js](bit_manipulation/missing_number/missing_number.js)
