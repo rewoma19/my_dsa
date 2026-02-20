@@ -243,3 +243,17 @@ Notes:
 Solution:
 
 - [missing_number.js](bit_manipulation/missing_number/missing_number.js)
+
+### [Leetcode 136: Single Number](https://leetcode.com/problems/single-number/description/)
+
+Instructions:
+
+- [single_number.md](bit_manipulation/single_number/single_number.md)
+
+Notes:
+
+- [NOTES.md](bit_manipulation/single_number/NOTES.md)
+
+Solution:
+
+- [single_number.js](bit_manipulation/single_number/missing_number.js)
