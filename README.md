@@ -257,3 +257,19 @@ Notes:
 Solution:
 
 - [single_number.js](bit_manipulation/single_number/missing_number.js)
+
+## Day 16: Trees
+
+## [Leetcode 104: Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+
+Instructions:
+
+- [max_depth.md](trees/max_depth/max_depth.md)
+
+Notes:
+
+- [NOTES.md](trees/max_depth/NOTES.md)
+
+Solution:
+
+- [max_depth.js](trees/max_depth/max_depth.js)
